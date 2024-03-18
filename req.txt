@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+requests-cache
+pandas
+fake-useragent
+selenium-stealth
+selenium
+playwright
+undetected-chromedriver

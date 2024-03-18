@@ -1,0 +1,3055 @@
+{
+    "items": [
+        {
+            "car_id": 2474209,
+            "offer_id": 365164,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/365164/?car=2474209",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 18124,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#f3f3f3",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 67,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 2,
+            "offer_date_created": "02.08.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2474209",
+            "prices": {
+                "rrc_price": 3410000,
+                "price": 1710000,
+                "discount": 1700000,
+                "retail": {
+                    "price": 3310000,
+                    "discount": 100000
+                },
+                "credit": {
+                    "price": 2860000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 2210000,
+                    "discount": 1200000
+                },
+                "credit_trade_in": {
+                    "price": 1710000,
+                    "discount": 1700000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680166",
+                    "picture_id": 20680166,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091060/origin/8091060.png",
+                    "picture_id": 20680209,
+                    "image_id": 8091060,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091061/origin/8091061.png",
+                    "picture_id": 20680231,
+                    "image_id": 8091061,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091062/origin/8091062.png",
+                    "picture_id": 20680253,
+                    "image_id": 8091062,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2474210,
+            "offer_id": 365165,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/365165/?car=2474210",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 18124,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Черный металлик",
+            "color_code": "#141212",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 67,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 2,
+            "offer_date_created": "02.08.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2474210",
+            "prices": {
+                "rrc_price": 3410000,
+                "price": 1710000,
+                "discount": 1700000,
+                "retail": {
+                    "price": 3310000,
+                    "discount": 100000
+                },
+                "credit": {
+                    "price": 2860000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 2210000,
+                    "discount": 1200000
+                },
+                "credit_trade_in": {
+                    "price": 1710000,
+                    "discount": 1700000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680390",
+                    "picture_id": 20680390,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091066/origin/8091066.png",
+                    "picture_id": 20680439,
+                    "image_id": 8091066,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091067/origin/8091067.png",
+                    "picture_id": 20680464,
+                    "image_id": 8091067,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091068/origin/8091068.png",
+                    "picture_id": 20680489,
+                    "image_id": 8091068,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2400528,
+            "offer_id": 362088,
+            "slug": "chery/tiggo8proeplus/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo8proeplus/suv/offer/362088/?car=2400528",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 8 Pro e+ Hybrid",
+            "equipment_group": "Ultimate",
+            "model_carcase_id": 19732,
+            "equipment_group_id": 4161,
+            "min_credit_pay": 26497,
+            "body_type": "SREDNERAZ_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Серый",
+            "color_code": "#aaaaaa",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "HB",
+            "engine_type_name_noun": "Гибрид",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 235,
+            "engine_capacity": 1.5,
+            "count_options": 91,
+            "count_review": 0,
+            "review_url": "/brands/chery/4334/review/",
+            "count_cars": 3,
+            "offer_date_created": "23.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo8proeplus/suv/2400528",
+            "prices": {
+                "rrc_price": 4929900,
+                "price": 2500000,
+                "discount": 2429900,
+                "retail": {
+                    "price": 4679900,
+                    "discount": 250000
+                },
+                "credit": {
+                    "price": 4199900,
+                    "discount": 730000
+                },
+                "trade_in": {
+                    "price": 4429900,
+                    "discount": 500000
+                },
+                "credit_trade_in": {
+                    "price": 2500000,
+                    "discount": 2429900
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/7/3/7333823/origin/7333823.png",
+                    "picture_id": 19472240,
+                    "image_id": 7333823,
+                    "app_id": 1,
+                    "storage_id": 2
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2667495,
+            "offer_id": 365161,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/365161/?car=2667495",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Ultimate",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 4161,
+            "min_credit_pay": 19184,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#f3f3f3",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 76,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 1,
+            "offer_date_created": "02.08.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2667495",
+            "prices": {
+                "rrc_price": 3510000,
+                "price": 1810000,
+                "discount": 1700000,
+                "retail": {
+                    "price": 3410000,
+                    "discount": 100000
+                },
+                "credit": {
+                    "price": 2960000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 2310000,
+                    "discount": 1200000
+                },
+                "credit_trade_in": {
+                    "price": 1810000,
+                    "discount": 1700000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680166",
+                    "picture_id": 20680166,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091060/origin/8091060.png",
+                    "picture_id": 20680209,
+                    "image_id": 8091060,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091061/origin/8091061.png",
+                    "picture_id": 20680231,
+                    "image_id": 8091061,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091062/origin/8091062.png",
+                    "picture_id": 20680253,
+                    "image_id": 8091062,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2567149,
+            "offer_id": 365525,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/365525/?car=2567149",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Ultimate SE",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 4340,
+            "min_credit_pay": 19714,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Глубокий зеленый",
+            "color_code": "#284f50",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 78,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 1,
+            "offer_date_created": "05.08.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2567149",
+            "prices": {
+                "rrc_price": 3560000,
+                "price": 1860000,
+                "discount": 1700000,
+                "retail": {
+                    "price": 3460000,
+                    "discount": 100000
+                },
+                "credit": {
+                    "price": 3010000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 2360000,
+                    "discount": 1200000
+                },
+                "credit_trade_in": {
+                    "price": 1860000,
+                    "discount": 1700000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680491",
+                    "picture_id": 20680491,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091069/origin/8091069.png",
+                    "picture_id": 20680561,
+                    "image_id": 8091069,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091070/origin/8091070.png",
+                    "picture_id": 20680590,
+                    "image_id": 8091070,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091071/origin/8091071.png",
+                    "picture_id": 20680614,
+                    "image_id": 8091071,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2532465,
+            "offer_id": 361975,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/361975/?car=2532465",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 19025,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Серебристый",
+            "color_code": "#c6c6c6",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 67,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 2,
+            "offer_date_created": "22.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2532465",
+            "prices": {
+                "rrc_price": 3410000,
+                "price": 1795000,
+                "discount": 1615000,
+                "retail": {
+                    "price": 3110000,
+                    "discount": 300000
+                },
+                "credit": {
+                    "price": 2545000,
+                    "discount": 865000
+                },
+                "trade_in": {
+                    "price": 2960000,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1795000,
+                    "discount": 1615000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680254",
+                    "picture_id": 20680254,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091063/origin/8091063.png",
+                    "picture_id": 20680330,
+                    "image_id": 8091063,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091064/origin/8091064.png",
+                    "picture_id": 20680355,
+                    "image_id": 8091064,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091065/origin/8091065.png",
+                    "picture_id": 20680389,
+                    "image_id": 8091065,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2534257,
+            "offer_id": 361972,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/361972/?car=2534257",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 19025,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Черный",
+            "color_code": "#090909",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 67,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 9,
+            "offer_date_created": "22.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2534257",
+            "prices": {
+                "rrc_price": 3410000,
+                "price": 1795000,
+                "discount": 1615000,
+                "retail": {
+                    "price": 3110000,
+                    "discount": 300000
+                },
+                "credit": {
+                    "price": 2545000,
+                    "discount": 865000
+                },
+                "trade_in": {
+                    "price": 2960000,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1795000,
+                    "discount": 1615000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680390",
+                    "picture_id": 20680390,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091066/origin/8091066.png",
+                    "picture_id": 20680439,
+                    "image_id": 8091066,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091067/origin/8091067.png",
+                    "picture_id": 20680464,
+                    "image_id": 8091067,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091068/origin/8091068.png",
+                    "picture_id": 20680489,
+                    "image_id": 8091068,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2558504,
+            "offer_id": 361971,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/361971/?car=2558504",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 19025,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#f3f3f3",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 67,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 21,
+            "offer_date_created": "22.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2558504",
+            "prices": {
+                "rrc_price": 3410000,
+                "price": 1795000,
+                "discount": 1615000,
+                "retail": {
+                    "price": 3110000,
+                    "discount": 300000
+                },
+                "credit": {
+                    "price": 2545000,
+                    "discount": 865000
+                },
+                "trade_in": {
+                    "price": 2960000,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1795000,
+                    "discount": 1615000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680166",
+                    "picture_id": 20680166,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091060/origin/8091060.png",
+                    "picture_id": 20680209,
+                    "image_id": 8091060,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091061/origin/8091061.png",
+                    "picture_id": 20680231,
+                    "image_id": 8091061,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091062/origin/8091062.png",
+                    "picture_id": 20680253,
+                    "image_id": 8091062,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2680174,
+            "offer_id": 363071,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/363071/?car=2680174",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 19025,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Лазурный",
+            "color_code": "#088a9d",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 67,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 5,
+            "offer_date_created": "11.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2680174",
+            "prices": {
+                "rrc_price": 3410000,
+                "price": 1795000,
+                "discount": 1615000,
+                "retail": {
+                    "price": 3110000,
+                    "discount": 300000
+                },
+                "credit": {
+                    "price": 2545000,
+                    "discount": 865000
+                },
+                "trade_in": {
+                    "price": 2960000,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1795000,
+                    "discount": 1615000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680491",
+                    "picture_id": 20680491,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091069/origin/8091069.png",
+                    "picture_id": 20680561,
+                    "image_id": 8091069,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091070/origin/8091070.png",
+                    "picture_id": 20680590,
+                    "image_id": 8091070,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091071/origin/8091071.png",
+                    "picture_id": 20680614,
+                    "image_id": 8091071,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2606699,
+            "offer_id": 353805,
+            "slug": "omoda/c5/suv",
+            "url": "https://autospot.ru/brands/omoda/c5/suv/offer/353805/?car=2606699",
+            "brand_id": "omoda",
+            "brand_name": "OMODA",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "C5",
+            "equipment_group": "Lifestyle",
+            "model_carcase_id": 19598,
+            "equipment_group_id": 4211,
+            "min_credit_pay": 15845,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Голубой",
+            "color_code": "#7b8ea4",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 69,
+            "count_review": 3,
+            "review_url": "/brands/omoda/4230/review/",
+            "count_cars": 3,
+            "offer_date_created": "08.02.23",
+            "count_page_views": 171,
+            "credit_url": "https://autospot.ru/credit/sravni/omoda/c5/suv/2606699",
+            "prices": {
+                "rrc_price": 2819900,
+                "price": 1495000,
+                "discount": 1324900,
+                "retail": {
+                    "price": 2579900,
+                    "discount": 240000
+                },
+                "credit": {
+                    "price": 2499900,
+                    "discount": 320000
+                },
+                "trade_in": {
+                    "price": 2055000,
+                    "discount": 764900
+                },
+                "credit_trade_in": {
+                    "price": 1495000,
+                    "discount": 1324900
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20561872",
+                    "picture_id": 20561872,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8034505/origin/8034505.png",
+                    "picture_id": 20561215,
+                    "image_id": 8034505,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8034506/origin/8034506.png",
+                    "picture_id": 20561257,
+                    "image_id": 8034506,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8034507/origin/8034507.png",
+                    "picture_id": 20561292,
+                    "image_id": 8034507,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20553766",
+                    "picture_id": 20553766,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20553767",
+                    "picture_id": 20553767,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20553768",
+                    "picture_id": 20553768,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2742012,
+            "offer_id": 378481,
+            "slug": "chery/arrizo8/sedan",
+            "url": "https://autospot.ru/brands/chery/arrizo8/sedan/offer/378481/?car=2742012",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Arrizo 8",
+            "equipment_group": "Ultimate SE",
+            "model_carcase_id": 19755,
+            "equipment_group_id": 4340,
+            "min_credit_pay": 20615,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Синий",
+            "color_code": "#1a60cf",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "RT",
+            "transmission_type_name_noun": "Робот",
+            "engine_power": 186,
+            "engine_capacity": 1.6,
+            "count_options": 78,
+            "count_review": 0,
+            "review_url": "/brands/chery/4320/review/",
+            "count_cars": 1,
+            "offer_date_created": "16.02.24",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/arrizo8/sedan/2742012",
+            "prices": {
+                "rrc_price": 3560000,
+                "price": 1945000,
+                "discount": 1615000,
+                "retail": {
+                    "price": 3260000,
+                    "discount": 300000
+                },
+                "credit": {
+                    "price": 2695000,
+                    "discount": 865000
+                },
+                "trade_in": {
+                    "price": 3110000,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1945000,
+                    "discount": 1615000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680616",
+                    "picture_id": 20680616,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091072/origin/8091072.png",
+                    "picture_id": 20680707,
+                    "image_id": 8091072,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091074/origin/8091074.png",
+                    "picture_id": 20680799,
+                    "image_id": 8091074,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8091073/origin/8091073.png",
+                    "picture_id": 20680798,
+                    "image_id": 8091073,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680800",
+                    "picture_id": 20680800,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680801",
+                    "picture_id": 20680801,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20680802",
+                    "picture_id": 20680802,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        }
+    ],
+    "links": {
+        "self": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&page=1&city_ids%5B0%5D=3&radius=0&picture_exp=1"
+        },
+        "first": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&page=1&city_ids%5B0%5D=3&radius=0&picture_exp=1"
+        },
+        "last": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&page=332&city_ids%5B0%5D=3&radius=0&picture_exp=1"
+        },
+        "next": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&page=2&city_ids%5B0%5D=3&radius=0&picture_exp=1"
+        }
+    },
+    "meta": {
+        "totalCount": 3648,
+        "pageCount": 332,
+        "currentPage": 1,
+        "perPage": 11,
+        "totalOffers": 3648,
+        "totalCars": 33168
+    },
+    "recommended": [
+        {
+            "car_id": 2688192,
+            "offer_id": 350437,
+            "slug": "omoda/c5/suv",
+            "url": "https://autospot.ru/brands/omoda/c5/suv/offer/350437/?car=2688192",
+            "brand_id": "omoda",
+            "brand_name": "OMODA",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "C5",
+            "equipment_group": "Ultimate",
+            "model_carcase_id": 19598,
+            "equipment_group_id": 4210,
+            "min_credit_pay": 26072,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Черный",
+            "color_code": "#0d1013",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 80,
+            "count_review": 3,
+            "review_url": "/brands/omoda/4230/review/",
+            "count_cars": 1,
+            "offer_date_created": "29.11.22",
+            "count_page_views": 175,
+            "credit_url": "https://autospot.ru/credit/sravni/omoda/c5/suv/2688192",
+            "prices": {
+                "rrc_price": 2949900,
+                "price": 2459900,
+                "discount": 490000,
+                "retail": {
+                    "price": 2929900,
+                    "discount": 20000
+                },
+                "credit": {
+                    "price": 2609900,
+                    "discount": 340000
+                },
+                "trade_in": {
+                    "price": 2799900,
+                    "discount": 150000
+                },
+                "credit_trade_in": {
+                    "price": 2459900,
+                    "discount": 490000
+                }
+            },
+            "slider": [
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20562000",
+                    "picture_id": 20562000,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8030223/origin/8030223.png",
+                    "picture_id": 20553799,
+                    "image_id": 8030223,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8030224/origin/8030224.png",
+                    "picture_id": 20553830,
+                    "image_id": 8030224,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://image-server.autospot.ru/images/1/0/6/6/8/0/8030225/origin/8030225.png",
+                    "picture_id": 20553861,
+                    "image_id": 8030225,
+                    "app_id": 1,
+                    "storage_id": 6
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20553766",
+                    "picture_id": 20553766,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20553767",
+                    "picture_id": 20553767,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                },
+                {
+                    "url": "https://img1.autospot.ru/images/custom_car/20553768",
+                    "picture_id": 20553768,
+                    "image_id": 0,
+                    "app_id": 0,
+                    "storage_id": 0
+                }
+            ],
+            "is_parallel_import": false
+        }
+    ],
+    "facets": {
+        "total": 3648,
+        "brands": [
+            {
+                "id": "audi",
+                "label": "Audi"
+            },
+            {
+                "id": "avatr",
+                "label": "Avatr"
+            },
+            {
+                "id": "baic",
+                "label": "BAIC"
+            },
+            {
+                "id": "bmw",
+                "label": "BMW"
+            },
+            {
+                "id": "belgee",
+                "label": "Belgee"
+            },
+            {
+                "id": "cadillac",
+                "label": "Cadillac"
+            },
+            {
+                "id": "changan",
+                "label": "Changan"
+            },
+            {
+                "id": "chery",
+                "label": "Chery"
+            },
+            {
+                "id": "chevrolet",
+                "label": "Chevrolet"
+            },
+            {
+                "id": "citroen",
+                "label": "Citroen"
+            },
+            {
+                "id": "dongfeng",
+                "label": "DongFeng"
+            },
+            {
+                "id": "cheryexeed",
+                "label": "EXEED"
+            },
+            {
+                "id": "evolute",
+                "label": "Evolute"
+            },
+            {
+                "id": "faw",
+                "label": "FAW"
+            },
+            {
+                "id": "ford",
+                "label": "Ford"
+            },
+            {
+                "id": "foton",
+                "label": "Foton"
+            },
+            {
+                "id": "gac-motor",
+                "label": "GAC"
+            },
+            {
+                "id": "gmc",
+                "label": "GMC"
+            },
+            {
+                "id": "geely",
+                "label": "Geely"
+            },
+            {
+                "id": "great-wall",
+                "label": "Great Wall"
+            },
+            {
+                "id": "haval",
+                "label": "Haval"
+            },
+            {
+                "id": "honda",
+                "label": "Honda"
+            },
+            {
+                "id": "hongqi",
+                "label": "Hongqi"
+            },
+            {
+                "id": "hyundai",
+                "label": "Hyundai"
+            },
+            {
+                "id": "infiniti",
+                "label": "Infiniti"
+            },
+            {
+                "id": "iran_khodro",
+                "label": "Iran Khodro"
+            },
+            {
+                "id": "jac",
+                "label": "JAC"
+            },
+            {
+                "id": "jaecoo",
+                "label": "Jaecoo"
+            },
+            {
+                "id": "jeep",
+                "label": "Jeep"
+            },
+            {
+                "id": "jetour",
+                "label": "Jetour"
+            },
+            {
+                "id": "jetta",
+                "label": "Jetta"
+            },
+            {
+                "id": "kia",
+                "label": "KIA"
+            },
+            {
+                "id": "kaiyi",
+                "label": "Kaiyi"
+            },
+            {
+                "id": "lada",
+                "label": "LADA"
+            },
+            {
+                "id": "lexus",
+                "label": "Lexus"
+            },
+            {
+                "id": "livan",
+                "label": "Livan"
+            },
+            {
+                "id": "lixiang",
+                "label": "Lixiang"
+            },
+            {
+                "id": "mazda",
+                "label": "Mazda"
+            },
+            {
+                "id": "mercedes_benz",
+                "label": "Mercedes-Benz"
+            },
+            {
+                "id": "mitsubishi",
+                "label": "Mitsubishi"
+            },
+            {
+                "id": "nissan",
+                "label": "Nissan"
+            },
+            {
+                "id": "omoda",
+                "label": "OMODA"
+            },
+            {
+                "id": "ora",
+                "label": "ORA"
+            },
+            {
+                "id": "peugeot",
+                "label": "Peugeot"
+            },
+            {
+                "id": "porsche",
+                "label": "Porsche"
+            },
+            {
+                "id": "ram",
+                "label": "RAM"
+            },
+            {
+                "id": "renault",
+                "label": "Renault"
+            },
+            {
+                "id": "rising",
+                "label": "Rising"
+            },
+            {
+                "id": "roewe",
+                "label": "Roewe"
+            },
+            {
+                "id": "swm",
+                "label": "SWM"
+            },
+            {
+                "id": "skoda",
+                "label": "Skoda"
+            },
+            {
+                "id": "skywell",
+                "label": "Skywell"
+            },
+            {
+                "id": "sollers",
+                "label": "Sollers"
+            },
+            {
+                "id": "subaru",
+                "label": "Subaru"
+            },
+            {
+                "id": "suzuki",
+                "label": "Suzuki"
+            },
+            {
+                "id": "tank",
+                "label": "Tank"
+            },
+            {
+                "id": "toyota",
+                "label": "Toyota"
+            },
+            {
+                "id": "volkswagen",
+                "label": "Volkswagen"
+            },
+            {
+                "id": "volvo",
+                "label": "Volvo"
+            },
+            {
+                "id": "voyah",
+                "label": "Voyah"
+            },
+            {
+                "id": "wey",
+                "label": "WEY"
+            },
+            {
+                "id": "zeekr",
+                "label": "Zeekr"
+            },
+            {
+                "id": "gaz",
+                "label": "ГАЗ"
+            },
+            {
+                "id": "moscvich",
+                "label": "Москвич"
+            },
+            {
+                "id": "uaz",
+                "label": "УАЗ"
+            }
+        ],
+        "bodies": [
+            {
+                "id": "1",
+                "label": "Седан"
+            },
+            {
+                "id": "2",
+                "label": "Хэтчбек"
+            },
+            {
+                "id": "3",
+                "label": "Лифтбек"
+            },
+            {
+                "id": "4",
+                "label": "Универсал"
+            },
+            {
+                "id": "5",
+                "label": "Купе"
+            },
+            {
+                "id": "7",
+                "label": "Минивэн"
+            },
+            {
+                "id": "9",
+                "label": "Внедорожник"
+            },
+            {
+                "id": "10",
+                "label": "Пикап"
+            },
+            {
+                "id": "11",
+                "label": "Микроавтобус"
+            },
+            {
+                "id": "12",
+                "label": "Грузовик"
+            },
+            {
+                "id": "13",
+                "label": "Фургон"
+            }
+        ],
+        "models": [],
+        "transmissions": [
+            {
+                "id": "AT",
+                "label": "Автоматическая"
+            },
+            {
+                "id": "CVT",
+                "label": "Вариатор"
+            },
+            {
+                "id": "RT",
+                "label": "Робот"
+            },
+            {
+                "id": "MT",
+                "label": "Механическая"
+            }
+        ],
+        "engine_types": [
+            {
+                "id": "AI",
+                "label": "Бензиновый"
+            },
+            {
+                "id": "DT",
+                "label": "Дизельный"
+            },
+            {
+                "id": "HB",
+                "label": "Гибридный"
+            },
+            {
+                "id": "ED",
+                "label": "Электромотор"
+            }
+        ],
+        "wheels": [
+            {
+                "id": "FWD",
+                "label": "Передний"
+            },
+            {
+                "id": "AWD",
+                "label": "Полный"
+            },
+            {
+                "id": "RWD",
+                "label": "Задний"
+            }
+        ],
+        "colors": [
+            {
+                "id": "2",
+                "label": "Белый/Кремовый",
+                "backgroundColor": "#F0EBEF"
+            },
+            {
+                "id": "1",
+                "label": "Черный",
+                "backgroundColor": "#030303"
+            },
+            {
+                "id": "3",
+                "label": "Серебристый/Серый",
+                "backgroundColor": "#CCCACC"
+            },
+            {
+                "id": "4",
+                "label": "Голубой/Синий",
+                "backgroundColor": "#2C22F2"
+            },
+            {
+                "id": "6",
+                "label": "Красный",
+                "backgroundColor": "#DE0404"
+            },
+            {
+                "id": "8",
+                "label": "Желтый/Оранжевый",
+                "backgroundColor": "#F7F36F"
+            },
+            {
+                "id": "9",
+                "label": "Экзотические/Двухцветные",
+                "backgroundColor": "#E320E0"
+            },
+            {
+                "id": "5",
+                "label": "Зеленый",
+                "backgroundColor": "#18CC04"
+            },
+            {
+                "id": "7",
+                "label": "Бежевый/Коричневый",
+                "backgroundColor": "#D9CEAB"
+            }
+        ],
+        "prices": {
+            "from": 527040,
+            "to": 62315568
+        },
+        "engine_power": {
+            "from": 67,
+            "to": 830
+        },
+        "engine_capacity": {
+            "from": 0,
+            "to": 6.2
+        },
+        "run": {
+            "from": 0,
+            "to": 0
+        },
+        "time_to_hundred": {
+            "from": 0,
+            "to": 35
+        },
+        "fuel_consumption": {
+            "from": 0,
+            "to": 0
+        },
+        "tags": [
+            {
+                "name": "Параллельный импорт",
+                "request": {
+                    "is_parallel_import": 1
+                }
+            },
+            {
+                "name": "В наличии, с ценой",
+                "request": {
+                    "with_price": 1
+                }
+            },
+            {
+                "name": "Бесключевой доступ",
+                "request": {
+                    "options": 454
+                }
+            },
+            {
+                "name": "Электрический стояночный тормоз",
+                "request": {
+                    "options": 829
+                }
+            },
+            {
+                "name": "Электропривод багажника",
+                "request": {
+                    "options": 12
+                }
+            },
+            {
+                "name": "Адаптивный круиз контроль",
+                "request": {
+                    "options": 703
+                }
+            },
+            {
+                "name": "Подогрев рулевого колеса",
+                "request": {
+                    "options": 1127
+                }
+            },
+            {
+                "name": "Панорамная крыша",
+                "request": {
+                    "options": 797
+                }
+            }
+        ],
+        "options": [
+            {
+                "id": 1128,
+                "name": "Комфорт",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 829,
+                        "name": "Электрический стояночный тормоз",
+                        "type": "option",
+                        "description": "Электрический стояночный тормоз - это решение, в котором вместо традиционного рычага, расположенного рядом с сиденьем водителя или педалью для левой ноги, появляется небольшая кнопка, активирующая сложный тормозной механизм.",
+                        "enable": true
+                    },
+                    {
+                        "id": 195,
+                        "name": "Круиз-контроль",
+                        "type": "option",
+                        "description": "Круиз-контроль - это устройство, главная цель которого - сохранять заданную скорость движения. Система способна при снижении скорости увеличивать газ и ограничивать скорость в случае ускорения и все это - без привлечения водителя.",
+                        "enable": true
+                    },
+                    {
+                        "id": 2,
+                        "name": "Подвеска",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 509,
+                                "name": "Пневмоподвеска",
+                                "type": "option",
+                                "description": "В пневматической подвеске пружины и амортизаторы заменены на герметичную камеру с воздухом внутри. За счет игры давлением подвеска меняет жесткость и высоту дорожного просвета.",
+                                "enable": true
+                            },
+                            {
+                                "id": 688,
+                                "name": "Адаптивная подвеска",
+                                "type": "option",
+                                "description": "Адаптивная подвеска автоматически изменяет свои характеристики (адаптируется) во время движения, подстраиваясь под конкретные условия.",
+                                "enable": true
+                            },
+                            {
+                                "id": 698,
+                                "name": "Спортивная подвеска",
+                                "type": "option",
+                                "description": "Спортивная подвеска отличается от стандартной меньшими размерами дорожного просвета и особыми настройками пружин и амортизаторов для улучшения управляемости.",
+                                "enable": true
+                            },
+                            {
+                                "id": 892,
+                                "name": "Гидроподвеска",
+                                "type": "option",
+                                "description": "Гидравлическая подвеска представляет собой гибрид классической пружинной и пневматической схем. Для демпфирования используется и воздух, и жидкость. Клиренс и жесткость меняются как у пневматической подвески.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Руль",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 827,
+                                "name": "Электроусилитель рулевого управления",
+                                "type": "option",
+                                "description": "Электроусилитель рулевого управления - это конструктивный элемент рулевого управления автомобиля, в котором дополнительное усилие при повороте рулевого колеса создается с помощью электрического привода.",
+                                "enable": true
+                            },
+                            {
+                                "id": 828,
+                                "name": "Гидроусилитель рулевого управления",
+                                "type": "option",
+                                "description": "Гидроусилитель рулевого управления предназначен для облегчения управления направлением движения автомобиля при сохранении необходимой «обратной связи» и обеспечении устойчивости и однозначности задаваемой траектории.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1234,
+                                "name": "Активный усилитель руля",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 805,
+                                "name": "Электрорегулировка рулевого колеса",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 678,
+                                "name": "Кожаный руль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 677,
+                                "name": "Мультируль",
+                                "type": "option",
+                                "description": "Мультирулем называют рулевое колесо, имеющее множество вспомогательных кнопок и элементов для управления различными функциями автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 679,
+                                "name": "Спортивный руль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 683,
+                                "name": "Подрулевые лепестки переключения передач",
+                                "type": "option",
+                                "description": "Нажатие на подрулевой лепесток передаёт сигнал в блок управления коробки передач, после чего автоматика выставляет нужную вам передачу. Чаще всего подобным механизмом оснащаются роботизированные коробки с двумя сцеплениями, на традиционных автоматических трансмиссиях лепестки встречаются реже.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1127,
+                                "name": "Подогрев рулевого колеса",
+                                "type": "option",
+                                "description": "Подогрева рулевого колеса - это нагревательный элемент, располагающийся под оплеткой руля в специальной теплопроводной оболочке. Чтобы руль стал теплым, потребуется всего 2-3 минуты.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Зеркала",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 891,
+                                "name": "Монохромное зеркало заднего вида",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 722,
+                                "name": "Электропривод боковых зеркал",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 723,
+                                "name": "Обогрев боковых зеркал",
+                                "type": "option",
+                                "description": "Обогрев боковых зеркал призван помочь избежать образование наледи на зеркалах и налипания снега/дождя в процессе движения автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 849,
+                                "name": "Электроскладывание боковых зеркал",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Багажник и двери",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 12,
+                                "name": "Электропривод багажника",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 732,
+                                "name": "Функция бесконтактного открытия багажной двери",
+                                "type": "option",
+                                "description": "Бесконтактное открытие двери багажника позволяет открыть багажник ногой в случаях, когда руки человека заняты и открыть багажник кнопкой на двери сложно.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "Доступ в авто",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 454,
+                                "name": "Бесключевой доступ",
+                                "type": "option",
+                                "description": "Бесключевой доступ в автомобиль позволяет распознать владельца машины с помощью специального чипа, который обычно располагается в брелоке. Хозяин транспортного средства получает доступ к салону, багажнику и запуску двигателя без какого-либо ключа.",
+                                "enable": true
+                            },
+                            {
+                                "id": 455,
+                                "name": "Сигнализация",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 725,
+                                "name": "Smart Key",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1237,
+                                "name": "2 комплекта ключей",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1251,
+                                "name": "Сигнализация с обратной связью",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 29,
+                        "name": "Сидения",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 227,
+                                "name": "3-й ряд сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 799,
+                                "name": "Задние сидения с подогревом",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 826,
+                                "name": "Электрорегулировка задних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 864,
+                                "name": "Массаж задних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 957,
+                                "name": "Память задних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": false
+                            },
+                            {
+                                "id": 682,
+                                "name": "Спортивные сидения передние",
+                                "type": "option",
+                                "description": "",
+                                "enable": false
+                            },
+                            {
+                                "id": 686,
+                                "name": "Передние сидения с вентиляцией",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 687,
+                                "name": "Передние сидения с подогревом",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 762,
+                                "name": "Электрорегулировка передних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 763,
+                                "name": "Память передних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 780,
+                                "name": "Массаж передних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1172,
+                                "name": "Регулировка передних сидений в х плоскостях",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 45,
+                        "name": "Климатическая система",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 749,
+                                "name": "Двухзонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 750,
+                                "name": "Трехзонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 751,
+                                "name": "Четырехзонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 842,
+                                "name": "Однозонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 567,
+                                "name": "Кондиционер",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 114,
+                        "name": "Работа двигателя",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 325,
+                                "name": "Запуск двигателя с кнопки",
+                                "type": "option",
+                                "description": "Запуск двигателя с кнопки - особенность данной системы заключается в том, что вместо традиционного замка зажигания для пуска двигателя применяется кнопка.",
+                                "enable": true
+                            },
+                            {
+                                "id": 336,
+                                "name": "Дистанционный запуск двигателя",
+                                "type": "option",
+                                "description": "Дистанционный запуск двигателя позволяет завести автомобиль с ключа на расстоянии для прогрева двигателя и охлаждения/отопления салона автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 752,
+                                "name": "Система авто старт-стоп",
+                                "type": "option",
+                                "description": "Система «старт-стоп» предназначена для автоматического отключения и перезапуска двигателя автомобиля с целью экономии топлива и снижения вредных выбросов за счет сокращения времени работы двигателя на холостом ходу.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1249,
+                                "name": "Кнопка Старт/Стоп",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 466,
+                        "name": "Стекла",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 167,
+                                "name": "Задние электростеклоподъемники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 221,
+                                "name": "Передние электростеклоподъемники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 739,
+                                "name": "Обогрев лобового стекла",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 610,
+                        "name": "Электрообогрев форсунок стеклоомывателя",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 703,
+                        "name": "Адаптивный круиз-контроль",
+                        "type": "option",
+                        "description": "Адаптивный круиз-контроль - одна из подсистем усовершенствованной системы помощи водителю, поддерживающая переменную скорость движения. Позволяет автоматически поддерживать необходимую скорость транспортного средства, соблюдая заданную дистанцию удаления от впереди движущегося ТС.",
+                        "enable": true
+                    },
+                    {
+                        "id": 794,
+                        "name": "Ароматизация салона",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 1219,
+                        "name": "Функция Auto Hold стояночного тормоза",
+                        "type": "option",
+                        "description": "Функция auto hold активирует электромеханический стояночный тормоз при остановке и разблокирует его при нажатии педали газа.. Для удержания автомобиля на месте ему больше не требуется нажимать педаль тормоза.",
+                        "enable": true
+                    }
+                ]
+            },
+            {
+                "id": 1146,
+                "name": "Безопасность",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 36,
+                        "name": "Комплекс систем пассивной безопасности",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 94,
+                                "name": "Система дистанционного управления автомобилем",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 581,
+                                "name": "Система распознавания дорожных знаков",
+                                "type": "option",
+                                "description": "Система распознавания дорожных знаков призвана предупреждать водителей о необходимости соблюдения скоростного режима. Данная система определяет дорожные знаки ограничения скорости при их проезде и напоминает водителю текущую максимальную разрешенную скорость, если он движется быстрее.",
+                                "enable": true
+                            },
+                            {
+                                "id": 803,
+                                "name": "Проекция на лобовое стекло",
+                                "type": "option",
+                                "description": "Проекция на лобовое стекло - функция отображения основных данных, необходимых водителю во время движения, на лобовом стекле автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 812,
+                                "name": "Система ночного видения",
+                                "type": "option",
+                                "description": "Система ночного видения предназначена для предоставления водителю информации об условиях движения в темное время суток. Система позволяет распознавать всевозможные препятствия, участников дорожного движения, пешеходов на неосвещенной дороге, а также дальнейшую траекторию трассы.",
+                                "enable": true
+                            },
+                            {
+                                "id": 830,
+                                "name": "Шины Runflat",
+                                "type": "option",
+                                "description": "Шины RunFlat - технология производства автомобильных покрышек, позволяющая при проколе проехать на покрышке примерно 80-100 км. Стрелка спидометра при этом может доходить до 80 км/ч.",
+                                "enable": false
+                            },
+                            {
+                                "id": 855,
+                                "name": "Система оповещения о ситуации на дороге",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1220,
+                                "name": "Системы автопилотов",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1250,
+                                "name": "Блокировка дифференциала",
+                                "type": "option",
+                                "description": "Блокировка дифференциала предназначена для увеличения крутящего момента на колесе (оси) с лучшим сцеплением.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 89,
+                        "name": "Комплекс систем активной безопасности",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 365,
+                                "name": "Система стабилизации",
+                                "type": "option",
+                                "description": "Динамическая система стабилизации автомобиля - активная система безопасности автомобиля, позволяющая предотвратить занос посредством управления компьютером момента силы колеса (одновременно одного или нескольких).",
+                                "enable": true
+                            },
+                            {
+                                "id": 457,
+                                "name": "Система контроля за полосой движения",
+                                "type": "option",
+                                "description": "Технология, помогающая водителю придерживаться выбранной полосы движения и тем самым, предотвращать аварийные ситуации\r\n",
+                                "enable": true
+                            },
+                            {
+                                "id": 458,
+                                "name": "Система контроля слепых зон",
+                                "type": "option",
+                                "description": "Система использует датчики-радары, чтобы просканировать «слепые зоны» автомобиля и предупредить водителя световым сигналом на боковом зеркале, если там находится другой автомобиль.\r\n",
+                                "enable": true
+                            },
+                            {
+                                "id": 565,
+                                "name": "Система помощи при торможении",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 582,
+                                "name": "Система контроля степени усталости водителя",
+                                "type": "option",
+                                "description": "Система контроля усталости следит за физическим состоянием водителя и если фиксирует определенные отклонения, предупреждает водителя о необходимости остановки и отдыха.",
+                                "enable": true
+                            },
+                            {
+                                "id": 583,
+                                "name": "Система экстренного торможения",
+                                "type": "option",
+                                "description": "Система помощи при экстренном торможении помогает автомобилю достичь максимальной эффективности торможения в экстренной ситуации.",
+                                "enable": true
+                            },
+                            {
+                                "id": 584,
+                                "name": "Система предотвращения столкновения",
+                                "type": "option",
+                                "description": "Система предотвращения фронтального столкновения способна обнаружить автомобили или пешехода, двигающиеся перед автомобилем. В случае возникновения риска столкновения система предупредит водителя, а если водитель не отреагирует, автомобиль автоматически задействует тормоза.",
+                                "enable": true
+                            },
+                            {
+                                "id": 625,
+                                "name": "Система помощи при спуске/подъеме",
+                                "type": "option",
+                                "description": "Система помощи при спуске предназначена для предотвращения ускорения автомобиля при движении по горным дорогам. Система помощи при подъеме на склон поддерживает давление в тормозных контурах после того, как водитель убрал ногу с педали, что позволяет продлить период работы тормозных колодок и обезопасить старт на подъеме.",
+                                "enable": true
+                            },
+                            {
+                                "id": 809,
+                                "name": "Антиблокировочная система",
+                                "type": "option",
+                                "description": "Антиблокировочная система призвана следить за вращением колесной базы. Если она вдруг заблокируется при торможении, ABS сокращает уровень давления тормозной жидкости, чтобы колесо смогло провернуться, а после этого снова нагнетает давление. Именно такой принцип работы АБС позволяет обеспечить «прерывистое торможение», которое считается наиболее эффективным для сокращения длины тормозного пути на любых дорожных покрытиях.",
+                                "enable": true
+                            },
+                            {
+                                "id": 810,
+                                "name": "Антипробуксовочная система",
+                                "type": "option",
+                                "description": "Антипротивобуксовочная система - электрогидравлическая система автомобиля, предназначенная для предотвращения потери сцепления колес с дорогой посредством контроля за буксованием ведущих колес.",
+                                "enable": true
+                            },
+                            {
+                                "id": 901,
+                                "name": "Система помощи при трогании на подъеме",
+                                "type": "option",
+                                "description": "Системой помощи при трогании на подъеме служит для предотвращения откатывания автомобиля при начале движения на подъеме, заносов при трогании с места под уклон.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 718,
+                        "name": "Подушки безопасности",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 244,
+                                "name": "Шторки безопасности",
+                                "type": "option",
+                                "description": "Шторки безопасности - это специальные надувные шторки для защиты головы водителя, переднего и крайних задних пассажиров, располагающиеся по бокам, которые срабатывают с той стороны, куда пришлось боковое столкновение авто.",
+                                "enable": true
+                            },
+                            {
+                                "id": 448,
+                                "name": "Выключатель подушки безопасности переднего пассажира",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 719,
+                                "name": "Боковые подушки безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 720,
+                                "name": "Задние подушки безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 721,
+                                "name": "Передние подушки безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 904,
+                                "name": "Коленная подушка безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 743,
+                        "name": "Системы помощи при парковке",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 71,
+                                "name": "Камера заднего вида",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 409,
+                                "name": "Задние парктроники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 453,
+                                "name": "Передние парктроники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 499,
+                                "name": "Камеры кругового обзора",
+                                "type": "option",
+                                "description": "Система кругового обзора является вспомогательной системой активной безопасности. Она предназначена для оказания помощи водителю при выполнении маневрирования в стесненных условиях (параллельная парковка, перпендикулярная парковка, движение между рядами, выезд на «слепой» перекресток).",
+                                "enable": true
+                            },
+                            {
+                                "id": 744,
+                                "name": "Передняя камера",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 767,
+                                "name": "Парковочный ассистент",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 792,
+                                "name": "Система автоматической парковки",
+                                "type": "option",
+                                "description": "Система автоматической парковки помогает подобрать оптимальное парковочное место и способна полностью взять на себя выполнение маневров. В возможностях этой системы не только безопасное выполнение параллельной парковки, но и максимально четкое проведение перпендикулярного маневрирования с целью занять свое место в строю машин.",
+                                "enable": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1148,
+                "name": "Обзор и фары",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 903,
+                        "name": "Передние противотуманные фары",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 86,
+                        "name": "Передние фары",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 689,
+                                "name": "Светодиодные (LED) фары",
+                                "type": "option",
+                                "description": "В настоящее время светодиоды заменяют классические лампы накаливания в современных автомобилях. Они обеспечивают не только высокую светоотдачу и высокий уровень безопасности, но и большую свободу проектирования и значительный потенциал энергосбережения.",
+                                "enable": true
+                            },
+                            {
+                                "id": 716,
+                                "name": "Биксеноновые фары",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 724,
+                                "name": "Галогенные фары",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 765,
+                                "name": "Ксеноновые фары",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 858,
+                                "name": "Лазерные фары",
+                                "type": "option",
+                                "description": "Свет лазерных фар принципиально отличается от дневного или любого другого искусственного источника. Получаемый луч когерентный и монохромный - это значит, что он имеет постоянную длину волны и одинаковую разность фаз. В чистом виде он представляет собой точечный пучок света, который в 1 000 раз интенсивнее диодного света.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 585,
+                        "name": "Система адаптивного освещения",
+                        "type": "option",
+                        "description": "Адаптивный свет - система головного освещения, автоматически изменяющая направление светового потока фар синхронно с направлением движения автомобиля. ",
+                        "enable": true
+                    },
+                    {
+                        "id": 691,
+                        "name": "Датчик света",
+                        "type": "option",
+                        "description": "Датчик света - это небольшой фотоэлемент, при помощи которого автоматически включаются или выключаются фары автомобиля. Как правило, это передний ближний свет. Этот элемент замеряет уровень освещенности и принимает решение о включении или отключении ламп.",
+                        "enable": true
+                    },
+                    {
+                        "id": 692,
+                        "name": "Датчик дождя",
+                        "type": "option",
+                        "description": "Датчик дождя - оптико-электронное устройство, устанавливаемое на ветровое стекло автомобиля и реагирующее на его увлажнение. Используется для автоматического управления стеклоочистителями и механизмами, закрывающими люк и стекла дверей.",
+                        "enable": true
+                    },
+                    {
+                        "id": 715,
+                        "name": "Система управления дальним светом",
+                        "type": "option",
+                        "description": "Система управления дальним светом предназначена для улучшения видимости в темное время суток за счет автоматического включения дальнего света фар.",
+                        "enable": true
+                    }
+                ]
+            },
+            {
+                "id": 1152,
+                "name": "Мультимедиа",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "name": "Кол-во динамиков",
+                        "type": "range",
+                        "range": {
+                            "field": "media",
+                            "min": 1,
+                            "max": 19
+                        }
+                    },
+                    {
+                        "id": 502,
+                        "name": "Навигационная система",
+                        "type": "option",
+                        "description": "Автомобильная навигационная система - вспомогательное электронное устройство, служащее для определения местоположения автомобиля и направления его движения к намеченной цели.",
+                        "enable": true
+                    },
+                    {
+                        "id": 425,
+                        "name": "Система управления жестами",
+                        "type": "option",
+                        "description": "Система управления жестами позволяет управлять определенными функциями автомобиля легким движением руки. Простые жесты \"смахнуть\" или \"указать\" в зоне над центральной консолью позволяют принять или отклонить входящий вызов. Громкость регулируется вращательным движением указательного пальца и т.д.",
+                        "enable": true
+                    },
+                    {
+                        "id": 835,
+                        "name": "Система голосового управления",
+                        "type": "option",
+                        "description": "Система голосового управления позволяет управлять функциями автомобиля, например, радио или подключенным к автомобилю мобильным телефоном с помощью голосовых команд.",
+                        "enable": true
+                    },
+                    {
+                        "id": 674,
+                        "name": "Беспроводная зарядка для телефона",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 326,
+                        "name": "Развлекательная система для задних пассажиров",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 549,
+                        "name": "Виртуальная приборная панель",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 400,
+                        "name": "Мультимедийная система",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 101,
+                                "name": "USB/AUX",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 245,
+                                "name": "Bluetooth",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 706,
+                                "name": "Премиальная аудиосистема",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 868,
+                                "name": "Android auto",
+                                "type": "option",
+                                "description": "Android Auto - это мобильное приложение, созданное Google для отражения функций устройства Android, например смартфона, на приборной панели автомобиля и головном устройстве развлечений. ",
+                                "enable": true
+                            },
+                            {
+                                "id": 1115,
+                                "name": "Apple Сar Play",
+                                "type": "option",
+                                "description": "CarPlay - система компании Apple, позволяющая подключить iPhone, начиная с iPhone 5, к мультимедиа-адаптированному автомобилю для интеграции Siri и других служб в автомобиль.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 494,
+                        "name": "Громкая связь",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 1248,
+                        "name": "Аудиосистема Hi-Fi",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    }
+                ]
+            },
+            {
+                "id": 1159,
+                "name": "Экстерьер",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "name": "Диаметр дисков, дюймы",
+                        "type": "range",
+                        "range": {
+                            "field": "size_wheel",
+                            "min": 13,
+                            "max": 24
+                        }
+                    },
+                    {
+                        "id": 770,
+                        "name": "Люк",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 797,
+                        "name": "Панорамная крыша",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 58,
+                        "name": "Внешние элементы кузова",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 178,
+                                "name": "Спойлер",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 436,
+                                "name": "Рейлинги на крыше",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 816,
+                                "name": "Подножки",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 964,
+                                "name": "Спортивный обвес",
+                                "type": "option",
+                                "description": "Спортивный обвес необходим для улучшения аэродинамических свойств кузова автомобиля при движении на высокой скорости. Кроме этого, спортивный обвес придает автомобилю уникальный и более агрессивный внешний вид.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1112,
+                                "name": "Насадки на выхлопные трубы",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 65,
+                        "name": "Диски",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 694,
+                                "name": "Легкосплавные диски",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 754,
+                                "name": "Кованые диски",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1165,
+                "name": "Интерьер",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 138,
+                        "name": "Передний подлокотник",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    }
+                ]
+            }
+        ]
+    }
+}
