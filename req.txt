@@ -8,3 +8,4 @@ selenium-stealth
 selenium
 playwright
 undetected-chromedriver
+pydantic
